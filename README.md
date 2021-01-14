@@ -1,4 +1,4 @@
-# speedtest-fpngfw
+# speedtest
 Command Line Interface to Test Internet Speed using [speedtest.net](http://www.speedtest.net/) from Forcepoint Next Gen Firewalls.
 
 Inspired by [showwin/speedtest-go](https://github.com/showwin/speedtest-go)
