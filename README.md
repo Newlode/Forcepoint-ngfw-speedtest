@@ -10,9 +10,10 @@ wget -q --no-check-certificate https://github.com/Newlode/speedtest-fpngfw/relea
 ```
 
 ## Usage
+
 ```
-# ./speedtest-fpngfw --help
-usage: speedtest-fpngfw [<flags>]
+# ./speedtest --help
+usage: speedtest [<flags>]
 
 Run a speedtest from a Forcepoint NGFW.
 
@@ -29,7 +30,7 @@ Flags:
 
 You can specify an ethernet interface from which to test.
 ```
-# ./speedtest-fpngfw -I eth0_3
+# ./speedtest -I eth0_3
 Source : 192.168.0.253/80.X.X.165 (Orange) [48.7582,2.3987]
 Target : 23282 307.56km (Rennes/France) by ORANGE FRANCE
 
